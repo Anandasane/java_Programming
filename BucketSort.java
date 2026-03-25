@@ -18,7 +18,7 @@ public class BucketSort {
 
         }
         // sort each bucket individually 
-        fort(int i=0; i< Bucket.length ; i++){
+        for(int i=0; i< Bucket.length ; i++){
             collections.sort(bucket[i]);
         
         }
