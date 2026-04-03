@@ -10,5 +10,6 @@ public class alphabtes {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
